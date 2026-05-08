@@ -136,11 +136,11 @@ https://canva.link/bu7rcgfdxu3o9ac
 
 This project was completed as a group assignment at Purwadhika Digital Technology School.
 
-**Indurasmi Dian M.**
-**Akbar Kanugraga**
-**Indira Faisa Afgani**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indira-faisa-afgani-886548218)
-**Mutiara Ayu Alzahra Ramadhani**
+- **Indurasmi Dian M.**
+- **Akbar Kanugraga**
+- **Indira Faisa Afgani**
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indira-faisa-afgani-886548218)
+- **Mutiara Ayu Alzahra Ramadhani**
 
 ---
 
